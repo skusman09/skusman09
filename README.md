@@ -26,8 +26,6 @@ Co-authored **4 published research papers** in international journals focusing o
 *   **Portfolio:** [shaikhusman.pages.dev](https://shaikhusman.pages.dev/)
 *   **Email:** imusman46@gmail.com
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skusman09&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skusman09&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skusman09&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skusman09&layout=compact&theme=radical)
