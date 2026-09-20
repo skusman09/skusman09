@@ -10,12 +10,6 @@
 * Designed event-driven background task pipelines utilizing **Celery** and **RabbitMQ** to handle high-volume asynchronous data processing.
 * Built programmatic web automation and data extraction workflows using **Playwright**.
 
-### 💻 Featured Architecture Showcases
-*(Proprietary source code is maintained in private repositories; these repositories serve as technical architecture and system design showcases)*
-
-*   🛒 **[Shoppyforce Microservices Ecosystem](#):** Designed a distributed backend ecosystem consisting of 8 distinct microservices using FastAPI[cite: 15]. Orchestrated inter-service communication via RabbitMQ/Celery and integrated PhonePe for complex B2B/B2C billing and subscription workflows[cite: 15].
-*   🏢 **[StaffOne HRMS](#):** Architected an enterprise-grade Layered Modular Monolith featuring timezone-aware attendance tracking, automated monthly payroll engines, and strict JWT-based Role-Based Access Control (RBAC)[cite: 14].
-
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, Java, SQL
 *   **Backend Frameworks:** FastAPI, Spring Boot
