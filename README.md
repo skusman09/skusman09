@@ -25,8 +25,3 @@ Co-authored **4 published research papers** in international journals focusing o
 *   **LinkedIn:** [linkedin.com/in/shaikh-usman](https://www.linkedin.com/in/shaikh-usman)
 *   **Portfolio:** [shaikhusman.pages.dev](https://shaikhusman.pages.dev/)
 *   **Email:** imusman46@gmail.com
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skusman09&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=skusman09&theme=radical&no-frame=true&margin-w=15)
