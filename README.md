@@ -27,5 +27,5 @@ Co-authored **4 published research papers** in international journals focusing o
 
 ### 📫 Let's Connect
 *   **LinkedIn:** [linkedin.com/in/shaikh-usman](https://www.linkedin.com/in/shaikh-usman)
-*   **Portfolio:** [shaikhusman.pages.dev](https://shaikhusman.pages.dev/)
+*   **Portfolio:** [shaikhusman.netlify.app/](https://shaikhusman.netlify.app/)
 *   **Email:** imusman46@gmail.com
